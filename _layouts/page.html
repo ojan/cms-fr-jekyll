@@ -2,4 +2,17 @@
 layout: default
 ---
 {% include JB/setup %}
+
+           <ul class="breadcrumb">
+                <li><a href="#"><i class="icon-home"></i>Home</a> </li>
+                {% assign crumbs = page.url | split: '/' %}
+                {% assign crumbstotal = crumbs | size %}
+                {% for crumb in crumbs offset:2 %}
+                    {% unless crumb == 'index.html' %}
+                        <li><span class="divider">&#187;</span> {{ crumb | remove: '.html' }} </li>
+                    {% endunless %}
+                {% endfor %}
+            </ul>
+                            <script>$(".breadcrumb li").last().addClass('active');</script>
+
 {% include themes/hooligan/page.html %}
