@@ -1,6 +1,6 @@
 # Jekyll cms-fr.net
 
-This is another try in the quest of searching the best online publishing workflow. The goal is to migrate [cms-fr.net](http://www.cms-fr.net) to a static site engine like Jekyll, Middleman or Nanoc, just to name the ones i like.
+This is another try in the quest of searching the best online publishing workflow. The goal is to migrate [cms-fr.net](http://www.cms-fr.net) to a [static site engine](http://staticsitegenerators.net/) like Jekyll, Middleman or Nanoc, just to name the ones i like.
 
 ## Tools used
 
