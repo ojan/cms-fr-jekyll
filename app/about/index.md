@@ -1,15 +1,9 @@
 ---
-title: À propos
+title: Le site de démonstration des CMS en langue française
 author: Olivier Jan
 layout: page
+description: "Ce site a été créé pour aider les personnes qui souhaitent choisir une plateforme de publication online en leur permettant de <a href=/demo/>tester, utiliser</a> les meilleurs sytèmes disponibles en français et en opensource*"
 ---
-# 
-
-### Le site de démonstration des CMS en langue française
-
-**Ce site a été créé pour aider les personnes qui souhaitent choisir une plateforme de publication online en leur permettant de [tester, utiliser][1] les meilleurs sytèmes disponibles en français et en opensource**.
-
- [1]: /demo "Aller au sommaire des démonstrations"
 
 Plus généralement, il est né d’une démarche plus large consistant à aider ceux qui veulent maintenir une plateforme de publication en ligne à moindre frais… histoire de garder le contrôle et la main sur leurs données dans ces temps de « googlelisation » globale. Que ce soit à titre personnel ou professionnel, vous y trouverez des infos, liens, articles, news pour vous aider à mieux installer, maintenir, configurer, utiliser des plate-formes de publication comme WordPress, MovableType, Drupal, SPIP, DotClear… 
 
@@ -41,6 +35,7 @@ Vous pouvez aider ce site à vivre et à se développer en participant de plusie
 *   [Souscrire][7] à l’une de nos offres d’hébergements pour votre weblog et vous assurer d’un support top notch.
 *   [Souscrire][7] à l’une de nos formules de démonstrations individualisées ou d’installations accompagnées.
 
+ [1]: /demo/
  [2]: http://opensourcecms.com "Visiter opensourcecms"
  [3]: /about/email-notification
  [4]: /about/authentification-demo/
