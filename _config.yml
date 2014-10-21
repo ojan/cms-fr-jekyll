@@ -24,7 +24,8 @@ paginate: 10
 paginate_path: 'page:num'
 
 # Markdown library
-markdown: rdiscount
-#   extensions: []
+markdown: redcarpet
+# extensions: ['fenced_code_blocks', 'smart']
+# https://github.com/vmg/redcarpet/blob/v3.1.2/README.markdown#and-its-like-really-simple-to-use
 
 pygments: false

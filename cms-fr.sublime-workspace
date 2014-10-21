@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PACKAGES",
+				"PACKAGES"
+			],
+			[
+				"styl",
+				"styl"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"art",
+				"artworkUrl"
+			],
+			[
+				"Lisa",
+				"lisa"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 3630,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/WD/Users/yol/Downloads/rwt_demo/css/modernscale.css",
+		"/Volumes/WD/Users/yol/Documents/Git/cms-fr-jekyll/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/cms-fr-jekyll/app/_layouts/page.html",
+		"/Volumes/WD/Users/yol/Documents/Git/cms-fr-jekyll/app/_layouts/default.html",
+		"/Volumes/WD/Users/yol/Documents/Git/cms-fr-jekyll/app/_layouts/post.html",
+		"/Volumes/WD/Users/yol/Downloads/all-templates/basic.html",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/wordpress/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/wordpress/post-install.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/ubuntu-trusty64/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/graphite/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/wordpress/files/etc/wordpress/wp-config.php",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/wordpress/wordpress.json",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/wordpress/files/etc/nginx/nginx.conf",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/wordpress/files/etc/nginx/sites-available/default",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/ubuntu-trusty64/post-install.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/graphite/files/scripts/graphite-install.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/graphite/post-install.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/graphite/graphite.json",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/elk/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/elk/post-install.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/elk/elk.json",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/ubuntu-trusty64/trusty64.json",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/ubuntu-trusty64/vagrant.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/ubuntu-trusty64/http/preseed.cfg",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/ubuntu-trusty64/scripts/vagrant.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/v-apps/ubuntu-trusty64/preseed.cfg",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/vagrant-checkmyws-mon.json",
+		"/Volumes/WD/Users/yol/Downloads/Starter-1400660368327.json",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/README.txt",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/stuff-install.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/http/preseed.cfg",
+		"/Volumes/WD/Users/yol/Documents/Git/vagrant-test/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/keys/vagrant.pub",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/trusty64.json",
+		"/Volumes/WD/Users/yol/Documents/Git/wooster-env/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/checkmyws-mon.json",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/graphite-install.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/etc/rc.local",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/start.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/logstash/logstash.conf",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/etc/rc.local.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/graphite.json",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/etc/network/interfaces",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/TODO.txt",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/circus/circus.ini",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/nginx/default",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/collectd/etc/conf.d/disk",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/collectd/etc/conf.d/nginx.conf",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/nginx/nginx_status.conf",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/collectd/etc/conf.d/df.conf",
+		"/Volumes/WD/Users/yol/Documents/Git/packer/sources/collectd/etc/conf.d/graphite.conf",
+		"/Volumes/WD/Users/yol/Documents/Git/elk-graphite-box/http/preseed.cfg",
+		"/Volumes/WD/Users/yol/Documents/Git/elk-graphite-box/elk.json",
+		"/Volumes/WD/Users/yol/Downloads/rwt_demo/index - copie.html",
+		"/Volumes/WD/Users/yol/Downloads/rwt_demo/css/site.css",
+		"/Volumes/WD/Users/yol/Downloads/rwt_demo/sass/_base.scss",
+		"/Volumes/WD/Users/yol/Downloads/rwt_demo/sass/_custom.scss",
+		"/Volumes/WD/Users/yol/VirtualBox VMs/Windows XP Pro SP3 3D/Windows XP Pro SP3 3D.vbox",
+		"/Volumes/WD/Users/yol/Documents/Git/icinga-box/Vagrantfile",
+		"/Volumes/WD/Users/yol/Documents/Git/icinga-box/install.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/centreon/dependencies.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/wooster-env/provision-good.sh",
+		"/Volumes/WD/Users/yol/Documents/Git/checkmy.ws/www/wooster/app/_includes/head.html",
+		"/Volumes/WD/Users/yol/Desktop/prices/index.html",
+		"/Volumes/WD/Users/yol/Downloads/ccrypt-1.9.mac-univ/README-WIN",
+		"/Volumes/WD/Users/yol/Desktop/yslow-rules-rulesets.html",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/head.html",
+		"/Volumes/192.168.1.107/lisa/app/_data/artbook.yml",
+		"/Volumes/192.168.1.107/lisa/app/artbook/index.html",
+		"/Volumes/192.168.1.107/lisa/app/artbook/ok.html",
+		"/Volumes/192.168.1.107/lisa/app/_data/agenda.yml",
+		"/Volumes/192.168.1.107/lisa/app/_data/tracks.yml",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-03-10-jazzy-melody.md",
+		"/Volumes/192.168.1.107/lisa/app/_layouts/home.html",
+		"/Volumes/192.168.1.107/lisa/app/music/melody-pour-tous/index.md",
+		"/Volumes/192.168.1.107/lisa/app/music/body-and-clown/index.md",
+		"/Volumes/192.168.1.107/lisa/app/shop/index.html",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/nav-main.html",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-03-17-art-me-urt-me.md",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/header.html",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-03-14-travesti-de-l-amour.md",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-04-28-frenchy-jazzy-on-stage.md",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-04-13-swing-it-jazz-it.md",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-03-16-pop-me-funk-me.md",
+		"/Volumes/192.168.1.107/lisa/app/index.html",
+		"/Volumes/192.168.1.107/lisa/app/music/index.md",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/post-loop.html",
+		"/Volumes/192.168.1.107/lisa/app/_layouts/post.html",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/js.html",
+		"/Volumes/192.168.1.107/lisa/app/_layouts/page.html",
+		"/Volumes/WD/Users/yol/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/192.168.1.107 1/lisa/app/contact/index.html",
+		"/Volumes/192.168.1.107/lisa/app/bio/index.md",
+		"/Volumes/192.168.1.107/lisa/app/blog/index.html",
+		"/Volumes/192.168.1.107/lisa/_config.yml",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/sharing.html",
+		"/Volumes/WD/Users/yol/Desktop/SITE LISAURT.COM/token.txt",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/sidebar.html",
+		"/Volumes/192.168.1.107/lisa/app/assets/js/sharing.js",
+		"/Volumes/192.168.1.107 1/lisa/lisa.sublime-project",
+		"/Volumes/192.168.1.107/lisa/app/_layouts/default.html",
+		"/Volumes/192.168.1.107/lisa/app/_layouts/post-index.html",
+		"/Volumes/192.168.1.107/lisa/app/_layouts/post-audio.html",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/tracks.html",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-03-09-titre.md",
+		"/Volumes/192.168.1.107/lisa/lisa.sublime-project",
+		"/Volumes/WD/Users/yol/Documents/Git/checkmy.ws/www/market/app/_layouts/index.html",
+		"/Volumes/WD/Users/yol/Documents/Git/checkmy.ws/www/market/app/_layouts/default.html",
+		"/Volumes/WD/Users/yol/Documents/Git/checkmy.ws/www/wooster/Gruntfile.js",
+		"/Volumes/WD/Users/yol/Documents/Git/checkmy.ws/www/wooster/app/_includes/post-loop.html",
+		"/Volumes/WD/Users/yol/Desktop/tmp.txt",
+		"/Volumes/WD/Users/yol/Desktop/checkmy.ws/semantic-article.html",
+		"/Volumes/WD/Users/yol/Desktop/untitled.html",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-03-09-jazz-loves-me-free.md",
+		"/Volumes/192.168.1.107/lisa/app/assets/css/ihover.css",
+		"/Volumes/192.168.1.107/lisa/Gruntfile.js",
+		"/Volumes/192.168.1.107/lisa/app/_includes/home-loop.html",
+		"/Volumes/192.168.1.107/lisa/app/assets/css/crush.css",
+		"/Volumes/192.168.1.107/lisa/app/2014/index.html",
+		"/Volumes/192.168.1.107/lisa/app/_plugins/monthly_archive.rb",
+		"/Volumes/192.168.1.107/lisa/app/_layouts/category_index.html",
+		"/Volumes/192.168.1.107/lisa/app/_layouts/archive_index.html",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-03-09-welcome-to-jekyll.md",
+		"/Volumes/192.168.1.107/lisa/app/_includes/weblog/overlay.html",
+		"/Volumes/192.168.1.107/lisa/app/assets/css/crush-compressed-styles.css",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-04-20-electro.md",
+		"/Volumes/192.168.1.107/lisa/app/_posts/2014-04-10-liberation.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"hostname",
+			"file",
+			"MYSQL_PASS",
+			"PASS",
+			"circus",
+			"ssh",
+			"trusty",
+			"nano",
+			"btrf",
+			"unsecure",
+			"elk",
+			"proxy",
+			"user",
+			" ",
+			"VERS",
+			"DIR",
+			"mirage",
+			"  ",
+			"author=2",
+			"favic",
+			"	",
+			"\\t",
+			"sass",
+			"/medium/",
+			"cwd",
+			"400",
+			"font",
+			"img",
+			"awesome",
+			"\n\n",
+			"# ",
+			".wav",
+			"cue",
+			"'",
+			"post.",
+			"tion",
+			"shortco",
+			"Ã©",
+			"wp-content/themes/weblog/assets/css/",
+			"images/bean",
+			"artbook",
+			"?1",
+			"png",
+			"social-share.png",
+			"social-share",
+			"artbook",
+			"images/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\" \"",
+			"NODE_VERS",
+			"NODE_SRC",
+			"  ",
+			"/small/",
+			"",
+			"\"",
+			"",
+			"/assets/css/weblog/",
+			"",
+			"../img/sharing/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1827,
+								1711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "cms-fr.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

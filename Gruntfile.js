@@ -1,9 +1,9 @@
-// Generated on 2014-02-08 using generator-jekyllrb 1.2.1
+// Generated on 2014-05-29 using generator-jekyllrb 1.2.1
 'use strict';
 
 // Directory reference:
 //   css: assets/css
-//   sass: _scss
+//   sass: assets/_scss
 //   javascript: assets/js
 //   images: assets/img
 //   fonts: assets/fonts
@@ -22,7 +22,7 @@ module.exports = function (grunt) {
     },
     watch: {
       sass: {
-        files: ['<%= yeoman.app %>/_scss/**/*.{scss,sass}'],
+        files: ['<%= yeoman.app %>/assets/_scss/**/*.{scss,sass}'],
         tasks: ['sass:server', 'autoprefixer:server']
       },
       autoprefixer: {
@@ -112,7 +112,7 @@ module.exports = function (grunt) {
       dist: {
         files: [{
           expand: true,
-          cwd: '<%= yeoman.app %>/_scss',
+          cwd: '<%= yeoman.app %>/assets/_scss',
           src: '**/*.{scss,sass}',
           dest: '.tmp/assets/css',
           ext: '.css'
@@ -125,7 +125,7 @@ module.exports = function (grunt) {
         },
         files: [{
           expand: true,
-          cwd: '<%= yeoman.app %>/_scss',
+          cwd: '<%= yeoman.app %>/assets/_scss',
           src: '**/*.{scss,sass}',
           dest: '.tmp/assets/css',
           ext: '.css'
@@ -288,6 +288,16 @@ module.exports = function (grunt) {
         }]
       }
     },
+    buildcontrol: {
+      dist: {
+        options: {
+          remote: '../',
+          branch: 'gh-pages',
+          commit: true,
+          push: true
+        }
+      }
+    },
     jshint: {
       options: {
         jshintrc: '.jshintrc',
@@ -306,7 +316,7 @@ module.exports = function (grunt) {
       check: {
         src: [
           '<%= yeoman.app %>/assets/css/**/*.css',
-          '<%= yeoman.app %>/_scss/**/*.scss'
+          '<%= yeoman.app %>/assets/_scss/**/*.scss'
         ]
       }
     },
@@ -373,6 +383,13 @@ module.exports = function (grunt) {
     'filerev',
     'usemin',
     'htmlmin'
+    ]);
+
+  grunt.registerTask('deploy', [
+    'check',
+    'test',
+    'build',
+    'buildcontrol'
     ]);
 
   grunt.registerTask('default', [

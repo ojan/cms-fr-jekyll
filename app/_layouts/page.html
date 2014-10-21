@@ -1,44 +1,9 @@
-<!DOCTYPE html>
-<html class="no-js">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }}</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: default
+---
 
-    <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+{{ content }}
 
-    <!-- build:css({app,.tmp}) /assets/css/main.css -->
-    <link rel="stylesheet" href="/_bower_components/normalize-css/normalize.css">
-    <link rel="stylesheet" href="/assets/css/flatly.css">
-    <!-- endbuild -->
-
-    <!-- build:js(app) /assets/js/head-scripts.js -->
-    <!-- Replace with a custom modernizer build for production -->
-    <script src="/_bower_components/modernizr/modernizr.js"></script>
-    <!-- endbuild -->
-
-  </head>
-  <body>
-    <!--[if lt IE 8]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-<main class="container">
-
-	<main class="col-sm-9 col-md-8 col-lg-7 col-md-offset-2" role="main">
-		<article>
-			<header>
-				<h1>{{ page.title }}</h1>
-        
-				<p class="lead">{{ page.description }}</p>
-				<!-- <h2>Meta</h2> -->
-			</header>
-    {{ content }}
-		</article>
-	</main>
-
-    {% include scripts.html %}
-</main>
-  </body>
-</html>
+      <blockquote>
+        <p class="quote">“Neither deals unfairly with the other; the Carthaginians never touch the gold till it comes up to the estimated value of their goods, nor do the natives carry off the goods till the gold has been taken away.” — <a>Herodotus</a><sup>2</sup></p>
+      </blockquote>

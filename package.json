@@ -1,12 +1,13 @@
 {
-  "name": "cms-fr",
+  "name": "test",
   "private": true,
   "version": "0.0.0",
-  "description": "Yeoman workflow for cms-fr",
+  "description": "Yeoman workflow for test",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-autoprefixer": "~0.6.4",
+    "grunt-build-control": "~0.1.2",
     "grunt-concurrent": "~0.4.3",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-concat": "~0.3.0",
