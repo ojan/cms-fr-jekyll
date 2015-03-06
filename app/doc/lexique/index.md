@@ -2,8 +2,7 @@
 title: Lexique de la Gestion de Contenu
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 CMS – SGC
 

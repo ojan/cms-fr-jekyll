@@ -2,8 +2,7 @@
 title: Xaraya
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 La démonstration de [Xaraya][1] installée est la dernière version française stable connue sans aucune modification. Il y a bien une adresse [française][2] mais les infos ne sont pas fraîches et il doit manquer de contributeurs pour traduire les pages. Vous pouvez vous connecter en [client][3] ou en [administrateur][4]. L’identifiant de connexion est « admin » et le mot de passe « demo ».
 

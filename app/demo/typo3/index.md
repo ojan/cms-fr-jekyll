@@ -2,8 +2,7 @@
 title: Typo3
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 La démonstration de [Typo3][1] installée est la dernière version française stable connue sans aucune modification. Plus exactement, l’installation comprend le fichier de code source et le fichier dummy de démo. Le fichier de traduction est celui fourni par la [communauté francophone][2]. Vous pouvez vous connecter en [client][3] ou en [administrateur][4]. L’identifiant de connexion est « admin » et le mot de passe « demo ».
 

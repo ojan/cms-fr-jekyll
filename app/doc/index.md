@@ -2,8 +2,7 @@
 title: Apprendre
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 ### Objectifs de cet espace
 

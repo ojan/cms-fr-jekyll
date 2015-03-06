@@ -2,8 +2,7 @@
 title: 'Qu&rsquo;est-ce qu&rsquo;un cms ?'
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 #### Définition d’un Système de Gestion de Contenu
 

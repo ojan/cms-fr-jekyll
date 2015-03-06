@@ -2,8 +2,7 @@
 title: eZ Publish
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 La démonstration de [eZ Publish][1] installée est la dernière version française stable connue sans aucune modification. Vous pouvez vous connecter [avec l’identifiant admin][2] et le mot de passe demo.
 

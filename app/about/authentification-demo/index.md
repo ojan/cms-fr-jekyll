@@ -2,8 +2,7 @@
 title: Authentification sur le serveur de démo
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 Que les choses soient dîtes une bonne fois pour toute, **il faut vous [créer un compte sur cms-fr.net][1] pour accéder au serveur de démonstration. Ceci est indépendant de l’authentification demandée par chaque cms pour être administré.** Vérifiez que votre logiciel de messagerie ne bloque pas l’e-mail de confirmation de création de compte.
 
@@ -27,9 +26,9 @@ Prenons un exemple :**Vous souhaitez vous connecter à la démonstration de [Wor
 7.  [![Connexion réussie][11]][11]Vous voilà administrateur de votre blog WordPress. Félicitations
 
  [4]: /demo/wordpress/
- []: http://www.cms-fr.net/wp-content/uploads/2010/01/1-register-screen.png
- []: http://www.cms-fr.net/wp-content/uploads/2010/01/2-register-form.png
- []: http://www.cms-fr.net/wp-content/uploads/2010/01/4-cms-choice.png
- []: http://www.cms-fr.net/wp-content/uploads/2010/01/5-demo-login.png
- []: http://www.cms-fr.net/wp-content/uploads/2010/01/6-cms-login.png
- []: http://www.cms-fr.net/wp-content/uploads/2010/01/7-cms-connection.png
+ []: http://www.cms-fr.net/assets/img/1-register-screen.png
+ []: http://www.cms-fr.net/assets/img/2-register-form.png
+ []: http://www.cms-fr.net/assets/img/4-cms-choice.png
+ []: http://www.cms-fr.net/assets/img/5-demo-login.png
+ []: http://www.cms-fr.net/assets/img/6-cms-login.png
+ []: http://www.cms-fr.net/assets/img/7-cms-connection.png

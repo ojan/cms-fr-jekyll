@@ -2,8 +2,7 @@
 title: Plan du site
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 Vous avez du mal à naviguer dans le site malgré le soin que nous avons apporté à la structuration de notre contenu; alors laissez-vous guider par le plan du site.
 

@@ -2,8 +2,7 @@
 title: Colophon
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 Le colophon est la place traditionnelle dans un site pour caser les remerciements, crédits, technologies utilisées, etc… alors nous aussi on a un colophon !
 

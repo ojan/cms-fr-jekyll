@@ -2,8 +2,7 @@
 title: Essayer
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 **L’espace de démonstration de cms-fr.net vous permet de prendre le contrôle des meilleurs CMS open source disponibles en langue française**. Vous pouvez tester, utilisez, modifiez chacune des installations que nous avons faîtes pour vous. Les démonstrations sont réinitialisées régulièrement afin de pouvoir repartir d’une installation fraîche sans cesse comme sur un bon vieux tableau noir.
 

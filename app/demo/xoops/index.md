@@ -2,8 +2,7 @@
 title: Xoops
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 La démonstration de Xoops installée est la dernière version française stable connue sans aucune modification. Le fichier de traduction est celui fourni par [Xoops France][1]. Vous pouvez vous connecter en [client][2] ou en [administrateur][3]. L’identifiant de connexion est « admin » et le mot de passe « demo ».
 

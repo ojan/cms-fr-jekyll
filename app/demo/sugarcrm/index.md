@@ -2,8 +2,7 @@
 title: Sugar CRM
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 La démonstration de [Sugar CRM][1] installée est la dernière version française stable connue sans aucune modification. Le fichier de traduction est celui fourni par la [communauté francophone][2]. Vous pouvez vous connecter en [administrateur][3]. L’identifiant de connexion est « admin » et le mot de passe « demo ».
 

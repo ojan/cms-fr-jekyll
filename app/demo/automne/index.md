@@ -2,8 +2,7 @@
 title: Automne
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 La démonstration de [Automne][1] installée est la dernière version française stable connue sans aucune modification. Vous pouvez vous connecter en [client][2] ou en [administrateur][3]. L’identifiant de connexion est « root » et le mot de passe « automne ». 
 

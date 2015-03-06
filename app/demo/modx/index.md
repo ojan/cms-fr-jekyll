@@ -2,8 +2,7 @@
 title: MODx
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 La démonstration de [MODX CMS][1] installée est la dernière version française stable connue sans aucune modification. Le [fichier de traduction][2] est celui fourni par la communauté francophone. Vous pouvez vous connecter en [client][3] ou en [administrateur][4]. L’identifiant de connexion est « admin » et le mot de passe « demodemo ».
 

@@ -7,8 +7,7 @@ categories:
   - Silverstripe
 tags:
   - CMS
----
-# 
+--- 
 
 La [démonstration française de Silverstripe 2.4.2][1] est en ligne sur demo.cms-fr.net.
 

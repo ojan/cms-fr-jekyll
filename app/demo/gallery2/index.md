@@ -2,8 +2,7 @@
 title: Gallery2
 author: Olivier Jan
 layout: page
----
-# 
+--- 
 
 La démonstration de Gallery2 installée est la dernière version française stable connue sans aucune modification. Vous pouvez vous connecter en [client][1] ou en [administrateur][2]. L’identifiant de connexion est « admin » et le mot de passe « demo ».
 

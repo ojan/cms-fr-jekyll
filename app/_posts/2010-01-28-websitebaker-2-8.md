@@ -7,8 +7,7 @@ categories:
   - Websitebaker
 tags:
   - CMS
----
-# 
+--- 
 
 La [démonstration française de Websitebaker 2.8][1] est en ligne sur demo.cms-fr.net.
 

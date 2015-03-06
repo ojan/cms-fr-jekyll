@@ -7,8 +7,7 @@ categories:
   - CMS Made Simple
 tags:
   - CMS
----
-# 
+--- 
 
 La [démonstration française de CMS Made Simple 1.7][1] est en ligne sur demo.cms-fr.net.
 
