@@ -9,18 +9,18 @@ Plus généralement, il est né d’une démarche plus large consistant à aider
 
 Vous y trouverez les guides des meillleurs usages et pratiques du web en matière de publication, axés sur les css, les templates, l’usabilité. Vous y trouverez ce que vous voudrez bien demander et ce que vous voudrez peut-être prendre le temps d’apporter.
 
-### Pourquoi un autre site type opensourcecms ?
+## Pourquoi un autre site type opensourcecms ?
 
 C’est vrai, [opensourcecms.com][2] fait un très bon boulot et ils nous arrivent souvent d’y faire un tour pour valider un choix de cms, au moins dans un premier tour de table. Cependant, pour nous francophones, opensourcecms ne nous renseigne en rien par rapport à nos préoccupations locales. Le cms est-il francisé, bénéficie t’il d’un support francophile à défaut d’être francophone. Bref, quels sont les cms pouvant être installés, administrés, utilisés, customisés, configurés par des utilisateurs ne parlant que la langue de Molière… et ils sont nombreux !
 
-### En savoir plus
+## En savoir plus
 
 *   [Alerte Mail][3]
 *   [Authentification sur le serveur de démo][4]
 *   [Colophon][5]
 *   [Plan du site][6]
 
-### Vous pouvez aider…
+## Vous pouvez aider…
 
 Vous pouvez aider ce site à vivre et à se développer en participant de plusieurs façons.
 

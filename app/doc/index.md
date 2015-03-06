@@ -4,7 +4,7 @@ author: Olivier Jan
 layout: page
 --- 
 
-### Objectifs de cet espace
+## Objectifs de cet espace
 
 Nous ouvrons un espace de documentation pour permettre de préciser certains termes, définitions relatifs au domaine des cms, mais plus généralement à tout ce qui touche la publication en ligne.
 
@@ -12,7 +12,7 @@ Le titre de cette documentation pourrait être « Je fais tout moi-même » ou c
 
 Nous essayerons d’éviter le plus possible le bla-bla pour nous concentrer sur l’aspect pratique des choses; Quelque chose entre le guide et le tutoriel. Nous souhaitons aboutir à une méthode qui permettent à tous de publier de façon autonome sur Internet. Nous aborderons tout ce qu’il faut savoir et prendre en compte pour mener à bien un tel projet.
 
-### Quelques sujets déjà traités
+## Quelques sujets déjà traités
 
 *   [Qu’est-ce qu’un cms ?][1]
 *   [Mon profil cms][2]

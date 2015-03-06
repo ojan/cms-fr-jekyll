@@ -14,7 +14,7 @@ En parallèle, chaque logiciel en démonstration possède sa propre authentifica
  [2]: http://demo.cms-fr.net
  [3]: /demo/
 
-### Exemple de création de compte et connexion
+## Exemple de création de compte et connexion
 
 Prenons un exemple :**Vous souhaitez vous connecter à la démonstration de [WordPress][4] comme administrateur**. 
 1.  [![Ecran de création de compte][6]][6][Créer un compte sur cms-fr.net][1].
