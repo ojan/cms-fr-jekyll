@@ -11,7 +11,11 @@ module.exports = function (grunt) {
   // Show elapsed time after tasks run
   require('time-grunt')(grunt);
   // Load all Grunt tasks
-  require('load-grunt-tasks')(grunt);
+  //require('load-grunt-tasks')(grunt);
+  require('jit-grunt')(grunt, {
+    'useminPrepare' : 'grunt-usemin',
+    'buildcontrol' : 'grunt-build-control'
+   });
 
   grunt.initConfig({
     // Configurable paths
@@ -42,9 +46,9 @@ module.exports = function (grunt) {
         options: {
           server: {
             baseDir: [
-              ".jekyll",
-              ".tmp",
-              "<%= yeoman.app %>"
+              '.jekyll',
+              '.tmp',
+              '<%= yeoman.app %>'
             ]
           },
           watchTask: true
@@ -53,7 +57,7 @@ module.exports = function (grunt) {
       dist: {
         options: {
           server: {
-            baseDir: "<%= yeoman.dist %>"
+            baseDir: '<%= yeoman.dist %>'
           }
         }
       },
@@ -70,9 +74,9 @@ module.exports = function (grunt) {
         options: {
           server: {
             baseDir: [
-              ".jekyll",
-              ".tmp",
-              "<%= yeoman.app %>"
+              '.jekyll',
+              '.tmp',
+              '<%= yeoman.app %>'
             ]
           },
           watchTask: true
