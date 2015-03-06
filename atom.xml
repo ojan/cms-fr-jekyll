@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title></title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2015-03-06T18:47:27+00:00</updated>
+ <id></id>
+ <author>
+   <name>Olivier JAN</name>
+   <email>olivierjan.com@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Kiwxml 1.1b</title>
+   <link href="/2011/05/kiwxml-1-1b/"/>
+   <updated>2011-05-23T00:00:00+00:00</updated>
+   <id>/2011/05/kiwxml-1-1b</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/kiwxml/&quot;&gt;démonstration française de KiwXml 1.1b&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Seotoaster 1.9</title>
+   <link href="/2011/05/seotoaster-1-9/"/>
+   <updated>2011-05-20T00:00:00+00:00</updated>
+   <id>/2011/05/seotoaster-1-9</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/seotoaster/&quot;&gt;démonstration française de Seotoaster 1.9&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wolfcms 0.7.3</title>
+   <link href="/2011/03/wolfcms-0-7-3/"/>
+   <updated>2011-03-21T00:00:00+00:00</updated>
+   <id>/2011/03/wolfcms-0-7-3</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wolfcms/&quot;&gt;démonstration française de Wolfcms 0.7.3&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Automne 4.1</title>
+   <link href="/2011/03/automne-4-1/"/>
+   <updated>2011-03-02T00:00:00+00:00</updated>
+   <id>/2011/03/automne-4-1</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/automne/&quot;&gt;démonstration française de Automne 4.1&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WordPress 3.1</title>
+   <link href="/2011/02/wordpress-3-1/"/>
+   <updated>2011-02-27T00:00:00+00:00</updated>
+   <id>/2011/02/wordpress-3-1</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wordpress/&quot;&gt;démonstration française de WordPress 3.1&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WordPress 3.0.5</title>
+   <link href="/2011/02/wordpress-3-0-5/"/>
+   <updated>2011-02-10T00:00:00+00:00</updated>
+   <id>/2011/02/wordpress-3-0-5</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wordpress/&quot;&gt;démonstration française de WordPress 3.0.5&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nucleus CMS 3.62</title>
+   <link href="/2011/02/nucleus-cms-3-62/"/>
+   <updated>2011-02-01T00:00:00+00:00</updated>
+   <id>/2011/02/nucleus-cms-3-62</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/nucleus/&quot;&gt;démonstration française de Nucleus CMS 3.62&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dokuwiki-2010-11-07a</title>
+   <link href="/2011/01/dokuwiki-2010-11-07a/"/>
+   <updated>2011-01-31T00:00:00+00:00</updated>
+   <id>/2011/01/dokuwiki-2010-11-07a</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/dokuwiki&quot;&gt;démonstration française de dokuwiki-2010-11-07a&lt;/a&gt; est en ligne sur demo.cms-fr.net&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Drupal 7.0</title>
+   <link href="/2011/01/drupal-7-0/"/>
+   <updated>2011-01-25T00:00:00+00:00</updated>
+   <id>/2011/01/drupal-7-0</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/drupal/&quot;&gt;démonstration française de Drupal 7.0&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>eZ Publish 4.4.0</title>
+   <link href="/2011/01/ez-publish-4-4-0/"/>
+   <updated>2011-01-05T00:00:00+00:00</updated>
+   <id>/2011/01/ez-publish-4-4-0</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/ezpublish/&quot;&gt;démonstration française de eZ Publish 4.4.0&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Xoops 2.5</title>
+   <link href="/2010/11/xoops-2-5/"/>
+   <updated>2010-11-15T00:00:00+00:00</updated>
+   <id>/2010/11/xoops-2-5</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/xoops/&quot;&gt;démonstration française de Xoops 2.5&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WordPress 3.0.1</title>
+   <link href="/2010/10/wordpress-3-0-1/"/>
+   <updated>2010-10-24T00:00:00+00:00</updated>
+   <id>/2010/10/wordpress-3-0-1</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wordpress/&quot;&gt;démonstration française de WordPress 3.0.1&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fluxbb 1.4.2</title>
+   <link href="/2010/10/fluxbb-1-4-2/"/>
+   <updated>2010-10-24T00:00:00+00:00</updated>
+   <id>/2010/10/fluxbb-1-4-2</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/fluxbb/&quot;&gt;démonstration française de Fluxbb 1.4.2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Coppermine 1.5.8</title>
+   <link href="/2010/10/coppermine-1-5-8/"/>
+   <updated>2010-10-24T00:00:00+00:00</updated>
+   <id>/2010/10/coppermine-1-5-8</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/coppermine/&quot;&gt;démonstration française de Coppermine 1.5.8&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tikiwiki 5.3</title>
+   <link href="/2010/10/tikiwiki-5-3/"/>
+   <updated>2010-10-22T00:00:00+00:00</updated>
+   <id>/2010/10/tikiwiki-5-3</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/tikiwiki/&quot;&gt;démonstration française de Tikiwiki 5.3&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Silverstripe 2.4.2</title>
+   <link href="/2010/10/silverstripe-2-4-2/"/>
+   <updated>2010-10-21T00:00:00+00:00</updated>
+   <id>/2010/10/silverstripe-2-4-2</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/silverstripe/&quot;&gt;démonstration française de Silverstripe 2.4.2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Modx 2.0.4-pl2</title>
+   <link href="/2010/10/modx-2-0-4-pl2/"/>
+   <updated>2010-10-21T00:00:00+00:00</updated>
+   <id>/2010/10/modx-2-0-4-pl2</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/modx/&quot;&gt;démonstration française de Modx 2.0.4-pl2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SPIP 2.1.2</title>
+   <link href="/2010/10/spip-2-1-2/"/>
+   <updated>2010-10-20T00:00:00+00:00</updated>
+   <id>/2010/10/spip-2-1-2</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/spip/&quot;&gt;démonstration française de SPIP 2.1.2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Serendipity 1.5.4</title>
+   <link href="/2010/10/serendipity-1-5-4/"/>
+   <updated>2010-10-20T00:00:00+00:00</updated>
+   <id>/2010/10/serendipity-1-5-4</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/serendipity/&quot;&gt;démonstration française de Serendipity 1.5.4&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wolfcms 0.6b</title>
+   <link href="/2010/10/wolfcms-0-6b/"/>
+   <updated>2010-10-18T00:00:00+00:00</updated>
+   <id>/2010/10/wolfcms-0-6b</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wolfcms/&quot;&gt;démonstration française de Wolfcms 0.6b&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Joomla 1.5.21</title>
+   <link href="/2010/10/joomla-1-5-21/"/>
+   <updated>2010-10-17T00:00:00+00:00</updated>
+   <id>/2010/10/joomla-1-5-21</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/joomla&quot;&gt;démonstration française de Joomla 1.5.21&lt;/a&gt; est en ligne.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pluxml 5.0</title>
+   <link href="/2010/07/pluxml-5-0/"/>
+   <updated>2010-07-16T00:00:00+00:00</updated>
+   <id>/2010/07/pluxml-5-0</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/pluxml/&quot;&gt;démonstration française de Pluxml 5.0&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WordPress 3.0</title>
+   <link href="/2010/06/wordpress-3-0/"/>
+   <updated>2010-06-21T00:00:00+00:00</updated>
+   <id>/2010/06/wordpress-3-0</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wordpress/&quot;&gt;démonstration française de WordPress 3.0&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Seotoaster 1.19</title>
+   <link href="/2010/05/seotoaster-1-19/"/>
+   <updated>2010-05-24T00:00:00+00:00</updated>
+   <id>/2010/05/seotoaster-1-19</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/seotoaster/&quot;&gt;démonstration française de Seotoaster 1.1 build 19&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ovidentia 7.2.3</title>
+   <link href="/2010/05/ovidentia-7-2-3/"/>
+   <updated>2010-05-24T00:00:00+00:00</updated>
+   <id>/2010/05/ovidentia-7-2-3</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/ovidentia/&quot;&gt;démonstration française de Ovidentia 7.2.3&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tikiwiki 4.2</title>
+   <link href="/2010/05/tikiwiki-4-2/"/>
+   <updated>2010-05-14T00:00:00+00:00</updated>
+   <id>/2010/05/tikiwiki-4-2</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/tikiwiki/&quot;&gt;démonstration française de Tikiwiki 4.2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kwsphp 1.6.900</title>
+   <link href="/2010/04/kwsphp-1-6-900/"/>
+   <updated>2010-04-26T00:00:00+00:00</updated>
+   <id>/2010/04/kwsphp-1-6-900</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/kwsphp/&quot;&gt;démonstration française de KwsPHP 1.6.900&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SPIP 2.1.0</title>
+   <link href="/2010/04/spip-2-1-0/"/>
+   <updated>2010-04-21T00:00:00+00:00</updated>
+   <id>/2010/04/spip-2-1-0</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/spip/&quot;&gt;démonstration française de SPIP 2.1.0&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CMS Made Simple 1.7</title>
+   <link href="/2010/04/cms-made-simple-1-7/"/>
+   <updated>2010-04-16T00:00:00+00:00</updated>
+   <id>/2010/04/cms-made-simple-1-7</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/cmsms/&quot;&gt;démonstration française de CMS Made Simple 1.7&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Opencart 1.4.7</title>
+   <link href="/2010/04/opencart-1-4-7/"/>
+   <updated>2010-04-15T00:00:00+00:00</updated>
+   <id>/2010/04/opencart-1-4-7</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/opencart/&quot;&gt;démonstration française de Opencart 1.4.7&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Seotoaster 1.1</title>
+   <link href="/2010/04/seotoaster-1-1/"/>
+   <updated>2010-04-09T00:00:00+00:00</updated>
+   <id>/2010/04/seotoaster-1-1</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/seotoaster/&quot;&gt;démonstration française de Seotoaster 1.1 build 18&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NPDS 10.02</title>
+   <link href="/2010/04/npds-10-02/"/>
+   <updated>2010-04-02T00:00:00+00:00</updated>
+   <id>/2010/04/npds-10-02</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/npds/&quot;&gt;démonstration française de NPDS Revolution 10.02&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Silex 1.5.3</title>
+   <link href="/2010/03/silex-1-5-3/"/>
+   <updated>2010-03-23T00:00:00+00:00</updated>
+   <id>/2010/03/silex-1-5-3</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/silex/&quot;&gt;démonstration française de Silex 1.5.3&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pluxml 4.3.1</title>
+   <link href="/2010/03/pluxml-4-3-1/"/>
+   <updated>2010-03-22T00:00:00+00:00</updated>
+   <id>/2010/03/pluxml-4-3-1</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/pluxml/&quot;&gt;démonstration française de Pluxml 4.3.1&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pmwiki 2.2.14</title>
+   <link href="/2010/03/pmwiki-2-2-14/"/>
+   <updated>2010-03-18T00:00:00+00:00</updated>
+   <id>/2010/03/pmwiki-2-2-14</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/pmwiki/&quot;&gt;démonstration française de PmWiki 2.2.14&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nucleus CMS 3.51</title>
+   <link href="/2010/03/nucleus-cms-3-51/"/>
+   <updated>2010-03-18T00:00:00+00:00</updated>
+   <id>/2010/03/nucleus-cms-3-51</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/nucleus/&quot;&gt;démonstration française de Nucleus CMS 3.51&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wolfcms 0.6a</title>
+   <link href="/2010/03/wolfcms-0-6a/"/>
+   <updated>2010-03-17T00:00:00+00:00</updated>
+   <id>/2010/03/wolfcms-0-6a</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wolfcms/&quot;&gt;démonstration française de Wolfcms 0.6a&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Punbb 1.3.4</title>
+   <link href="/2010/03/punbb-1-3-4/"/>
+   <updated>2010-03-17T00:00:00+00:00</updated>
+   <id>/2010/03/punbb-1-3-4</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/punbb/&quot;&gt;démonstration française de Punbb 1.3.4&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fluxbb 1.2.22</title>
+   <link href="/2010/03/fluxbb-1-2-22/"/>
+   <updated>2010-03-17T00:00:00+00:00</updated>
+   <id>/2010/03/fluxbb-1-2-22</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/fluxbb/&quot;&gt;démonstration française de Fluxbb 1.2.22&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mediawiki 1.15.1</title>
+   <link href="/2010/03/mediawiki-1-15-1/"/>
+   <updated>2010-03-06T00:00:00+00:00</updated>
+   <id>/2010/03/mediawiki-1-15-1</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/mediawiki/&quot;&gt;démonstration française de Mediawiki 1.15.1&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dotclear 2.1.6</title>
+   <link href="/2010/03/dotclear-2-1-6/"/>
+   <updated>2010-03-04T00:00:00+00:00</updated>
+   <id>/2010/03/dotclear-2-1-6</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/dotclear/&quot;&gt;démonstration française de Dotclear 2.1.6&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Drupal 6.15</title>
+   <link href="/2010/03/drupal-6-15/"/>
+   <updated>2010-03-03T00:00:00+00:00</updated>
+   <id>/2010/03/drupal-6-15</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/drupal/&quot;&gt;démonstration française de Drupal 6.15&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Xoops 2.4.4</title>
+   <link href="/2010/03/xoops-2-4-4/"/>
+   <updated>2010-03-02T00:00:00+00:00</updated>
+   <id>/2010/03/xoops-2-4-4</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/xoops/&quot;&gt;démonstration française de Xoops 2.4.4&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WordPress 2.9.2</title>
+   <link href="/2010/03/wordpress-2-9-2/"/>
+   <updated>2010-03-02T00:00:00+00:00</updated>
+   <id>/2010/03/wordpress-2-9-2</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wordpress/&quot;&gt;démonstration française de WordPress 2.9.2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Modx 1.0.2</title>
+   <link href="/2010/02/modx-1-0-2/"/>
+   <updated>2010-02-08T00:00:00+00:00</updated>
+   <id>/2010/02/modx-1-0-2</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/modx/&quot;&gt;démonstration française de Modx 1.0.2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CMS Made Simple 1.6.6</title>
+   <link href="/2010/02/cms-made-simple-1-6-6/"/>
+   <updated>2010-02-06T00:00:00+00:00</updated>
+   <id>/2010/02/cms-made-simple-1-6-6</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/cmsms/&quot;&gt;démonstration française de CMS Made Simple 1.6.6&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Textpattern 4.2.0</title>
+   <link href="/2010/02/textpattern-4-2-0/"/>
+   <updated>2010-02-01T00:00:00+00:00</updated>
+   <id>/2010/02/textpattern-4-2-0</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/textpattern/&quot;&gt;démonstration française de Textpattern 4.2.0&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Joomla 1.5.15</title>
+   <link href="/2010/02/joomla-1-5-15/"/>
+   <updated>2010-02-01T00:00:00+00:00</updated>
+   <id>/2010/02/joomla-1-5-15</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/joomla&quot;&gt;démonstration française de Joomla 1.5.15&lt;/a&gt; est en ligne.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Websitebaker 2.8</title>
+   <link href="/2010/01/websitebaker-2-8/"/>
+   <updated>2010-01-28T00:00:00+00:00</updated>
+   <id>/2010/01/websitebaker-2-8</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/websitebaker/&quot;&gt;démonstration française de Websitebaker 2.8&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dokuwiki 2009-12-25c</title>
+   <link href="/2010/01/dokuwiki-2009-12-25c/"/>
+   <updated>2010-01-28T00:00:00+00:00</updated>
+   <id>/2010/01/dokuwiki-2009-12-25c</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/dokuwiki&quot;&gt;démonstration française de Dokuwiki 2009-12-25c&lt;/a&gt; est en ligne sur demo.cms-fr.net&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WordPress 2.9.1</title>
+   <link href="/2010/01/wordpress-291/"/>
+   <updated>2010-01-25T00:00:00+00:00</updated>
+   <id>/2010/01/wordpress-291</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/wordpress/&quot;&gt;démonstration française de WordPress 2.9.1&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dokuwiki 2009-02-14</title>
+   <link href="/2009/02/dokuwiki-2000214/"/>
+   <updated>2009-02-14T00:00:00+00:00</updated>
+   <id>/2009/02/dokuwiki-2000214</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/dokuwiki&quot;&gt;démonstration française de Dokuwiki 2009-02-14&lt;/a&gt; est en ligne sur demo.cms-fr.net&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WordPress 2.7</title>
+   <link href="/2008/12/wordpress-27/"/>
+   <updated>2008-12-14T00:00:00+00:00</updated>
+   <id>/2008/12/wordpress-27</id>
+   <content type="html">&lt;p&gt;La très attendue &lt;a href=&quot;/demo/wordpress/&quot;&gt;démonstration française de WordPress 2.7&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ovidentia 6.7.1</title>
+   <link href="/2008/10/ovidentia-671/"/>
+   <updated>2008-10-12T00:00:00+00:00</updated>
+   <id>/2008/10/ovidentia-671</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/ovidentia&quot;&gt;démonstration française de Ovidentia 6.7.1&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CMS Made Simple 1.4.1</title>
+   <link href="/2008/09/msms-141/"/>
+   <updated>2008-09-14T00:00:00+00:00</updated>
+   <id>/2008/09/msms-141</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/cmsms&quot;&gt;démonstration française de CMS Made Simple 1.4.1&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kwsphp 1.6.745</title>
+   <link href="/2008/09/kwsphp-1-6-745/"/>
+   <updated>2008-09-14T00:00:00+00:00</updated>
+   <id>/2008/09/kwsphp-1-6-745</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/kwsphp&quot;&gt;démonstration de KwsPHP 1.6.745&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dotclear 2.0.2</title>
+   <link href="/2008/09/dotclear-202/"/>
+   <updated>2008-09-14T00:00:00+00:00</updated>
+   <id>/2008/09/dotclear-202</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/dotclear&quot;&gt;démonstration de Dotclear 2.0.2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Moodle 1.9.2</title>
+   <link href="/2008/08/moodle-192/"/>
+   <updated>2008-08-14T00:00:00+00:00</updated>
+   <id>/2008/08/moodle-192</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/moodle&quot;&gt;démonstration française de Moodle 1.9.2&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Joomla 1.5.6</title>
+   <link href="/2008/08/joomla-156/"/>
+   <updated>2008-08-14T00:00:00+00:00</updated>
+   <id>/2008/08/joomla-156</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/joomla&quot;&gt;démonstration française de Joomla 1.5.6&lt;/a&gt; est en ligne.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dokuwiki 2008-05-05</title>
+   <link href="/2008/08/dokuwiki-2008-05-05/"/>
+   <updated>2008-08-07T00:00:00+00:00</updated>
+   <id>/2008/08/dokuwiki-2008-05-05</id>
+   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/dokuwiki&quot;&gt;démonstration française de Dokuwiki 2008-05-05&lt;/a&gt; est en ligne sur demo.cms-fr.net&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
