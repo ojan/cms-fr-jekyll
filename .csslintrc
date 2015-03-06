@@ -12,7 +12,7 @@
   "errors": false,
   "duplicate-background-images": false,
   "duplicate-properties": false,
-  "empty-rules": false,
+  "empty-rules": true,
   "selector-max-approaching": false,
   "gradients": false,
   "fallback-colors": true,
