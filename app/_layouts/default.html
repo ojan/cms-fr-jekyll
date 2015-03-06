@@ -13,7 +13,7 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Accueil">{{ site.name }}</a>
+            <a href="/" title="Accueil">{{ site.name | upcase }}</a>
             <small>{{ site.description }}</small>
           </h3>
         </div>
@@ -42,6 +42,18 @@
           checkbox.checked = false;
         }, false);
       })(document);
+    </script>
+    <script type="text/javascript">
+        var pkBaseURL = document.location.protocol + "//" + "analytics.monitoring-fr.org" + "/";
+        document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        try {
+        var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 5);
+        piwikTracker.setDocumentTitle(document.title);
+        piwikTracker.trackPageView();
+              piwikTracker.enableLinkTracking();
+              } catch( err ) {}
     </script>
 
     <!-- build:js(app) /assets/js/main.js -->

@@ -7,3 +7,4 @@ future: false
 show_drafts: false
 
 baseurl: /cms-fr-jekyll/
+url: http://ojan.github.io
