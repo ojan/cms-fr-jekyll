@@ -5,9 +5,27 @@
     <description>Essayez les avant de les installer… Ou de les faire installer !</description>
     <link>http://ojan.github.io/cms-fr-jekyll//</link>
     <atom:link href="http://ojan.github.io/cms-fr-jekyll//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2015 22:30:25 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 22:30:25 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2015 09:16:16 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2015 09:16:16 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Standby Mais Pas Ko</title>
+        <description>&lt;p&gt;Je reçois pas mal de mails me demandant de référencer tel ou tel nouveau CMS. Je prends en général le temps de répondre ce qui suit.&lt;/p&gt;
+
+&lt;p&gt;Je suis très pris par un &lt;a href=&quot;http://wooster.checkmy.ws/&quot;&gt;nouveau projet&lt;/a&gt; auquel je participe et il n’est pas exclu que la mise à jour de cms-fr.net puisse rentrer dans le cadre de ce projet.
+cms-fr.net reste fonctionnel et les démonstrations sont toujours disponibles par contre rien n’est plus mis à jour par manque de temps.&lt;/p&gt;
+
+&lt;p&gt;Mais c’est aussi un bilan de 8 années à proposer des démonstrations de CMS que j’essaye de dresser en ce moment. L’offre en CMS n’a jamais été aussi grande, elles s’est diversifiée avec de nouveaux CMS codé en autre chose que du PHP, beaucoup de ces CMS ont leur propre site de démos… Bref, tout a changé et il est peut-être temps de repositionner cms-fr.net.&lt;/p&gt;
+
+&lt;p&gt;cms-fr.net n’est donc pas mort et je reviendrais ici-même vous en dire plus d’ici quelques temps. D’ici là, bonne fêtes de fin d’année à toutes et à tous.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+        <link>http://ojan.github.io/cms-fr-jekyll//2013/12/10/standby-mais-pas-ko.html</link>
+        <guid isPermaLink="true">http://ojan.github.io/cms-fr-jekyll//2013/12/10/standby-mais-pas-ko.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Kiwxml 1.1b</title>
@@ -154,22 +172,6 @@
         
         
         <category>drupal</category>
-        
-      </item>
-    
-      <item>
-        <title>eZ Publish 4.4.0</title>
-        <description>&lt;p&gt;La &lt;a href=&quot;/demo/ezpublish/&quot;&gt;démonstration française de eZ Publish 4.4.0&lt;/a&gt; est en ligne sur demo.cms-fr.net.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 05 Jan 2011 00:00:00 +0000</pubDate>
-        <link>http://ojan.github.io/cms-fr-jekyll//2011/01/ez-publish-4-4-0/</link>
-        <guid isPermaLink="true">http://ojan.github.io/cms-fr-jekyll//2011/01/ez-publish-4-4-0/</guid>
-        
-        <category>CMS</category>
-        
-        
-        <category>ez publish</category>
         
       </item>
     

@@ -4,13 +4,29 @@
  <title></title>
  <link href="http://ojan.github.io/atom.xml" rel="self"/>
  <link href="http://ojan.github.io/"/>
- <updated>2015-03-06T22:30:25+00:00</updated>
+ <updated>2015-03-07T09:16:16+00:00</updated>
  <id>http://ojan.github.io</id>
  <author>
    <name>Olivier JAN</name>
    <email>olivierjan.com@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Standby Mais Pas Ko</title>
+   <link href="http://ojan.github.io/2013/12/10/standby-mais-pas-ko.html"/>
+   <updated>2013-12-10T00:00:00+00:00</updated>
+   <id>http://ojan.github.io/2013/12/10/standby-mais-pas-ko</id>
+   <content type="html">&lt;p&gt;Je reçois pas mal de mails me demandant de référencer tel ou tel nouveau CMS. Je prends en général le temps de répondre ce qui suit.&lt;/p&gt;
+
+&lt;p&gt;Je suis très pris par un &lt;a href=&quot;http://wooster.checkmy.ws/&quot;&gt;nouveau projet&lt;/a&gt; auquel je participe et il n’est pas exclu que la mise à jour de cms-fr.net puisse rentrer dans le cadre de ce projet.
+cms-fr.net reste fonctionnel et les démonstrations sont toujours disponibles par contre rien n’est plus mis à jour par manque de temps.&lt;/p&gt;
+
+&lt;p&gt;Mais c’est aussi un bilan de 8 années à proposer des démonstrations de CMS que j’essaye de dresser en ce moment. L’offre en CMS n’a jamais été aussi grande, elles s’est diversifiée avec de nouveaux CMS codé en autre chose que du PHP, beaucoup de ces CMS ont leur propre site de démos… Bref, tout a changé et il est peut-être temps de repositionner cms-fr.net.&lt;/p&gt;
+
+&lt;p&gt;cms-fr.net n’est donc pas mort et je reviendrais ici-même vous en dire plus d’ici quelques temps. D’ici là, bonne fêtes de fin d’année à toutes et à tous.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Kiwxml 1.1b</title>
@@ -598,16 +614,6 @@
    <updated>2008-08-14T00:00:00+00:00</updated>
    <id>http://ojan.github.io/2008/08/joomla-156</id>
    <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/joomla&quot;&gt;démonstration française de Joomla 1.5.6&lt;/a&gt; est en ligne.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Dokuwiki 2008-05-05</title>
-   <link href="http://ojan.github.io/2008/08/dokuwiki-2008-05-05/"/>
-   <updated>2008-08-07T00:00:00+00:00</updated>
-   <id>http://ojan.github.io/2008/08/dokuwiki-2008-05-05</id>
-   <content type="html">&lt;p&gt;La &lt;a href=&quot;/demo/dokuwiki&quot;&gt;démonstration française de Dokuwiki 2008-05-05&lt;/a&gt; est en ligne sur demo.cms-fr.net&lt;/p&gt;
 
 </content>
  </entry>
