@@ -9,10 +9,7 @@ author:
   name: Olivier JAN
   email: olivierjan.com@gmail.com
 
-baseurl: /
-url: 'http://192.168.56.100:3000'
-
-github.repo: 'https://github.com/ojan/cms-fr-jekyll'
+github_repo: 'https://github.com/ojan/cms-fr-jekyll'
 
 # Grunt handles images and assets.
 exclude: ['img', 'css', 'js', 'fonts',
@@ -24,7 +21,7 @@ include: ['.htaccess']
 future: true
 show_drafts: true
 
-permalink: date
+permalink: /:year/:month/:title/index.html
 paginate: 10
 paginate_path: 'page:num'
 
